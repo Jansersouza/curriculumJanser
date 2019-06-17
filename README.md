@@ -1,1 +1,1 @@
-# http://curriculumJanser
+# http://jansersouza.github.io/curriculumJanser
